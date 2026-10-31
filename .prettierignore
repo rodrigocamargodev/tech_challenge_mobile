@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.expo/
+android/
+ios/
+package-lock.json
+
+# Documento de especificação fornecido pelo usuário: não reformatar.
+PROMPT_DEEPSEEK_BLOG_DE_GIZ_V2.md
